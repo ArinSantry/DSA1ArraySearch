@@ -25,7 +25,7 @@ void fillRandomNumbers(int a[], const int size) {
 	}
 }
 
-// print the unput array, 10 numbers per line
+// print the input array, 10 numbers per line
 void printArray(int a[], const int size) {
 
 	if (size >= 1) {
